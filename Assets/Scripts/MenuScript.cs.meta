@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Scripts/PlayerMovement.cs.meta
-guid: 11eff051d118816479dbd979fdcae882
-========
-guid: 236027e59a456ca44b9e982ef3ac970a
->>>>>>>> main:Assets/Scripts/LevelLoader.cs.meta
+guid: b45b710aeb3dfa94393e5d409a4471b8
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
